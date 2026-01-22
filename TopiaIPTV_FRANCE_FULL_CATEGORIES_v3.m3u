@@ -14,6 +14,8 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extens
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BeIN_Sports_logo_2017.svg/512px-BeIN_Sports_logo_2017.svg.png" group-title="FRANCE - SPORT",Bein Spor 2
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BeIN_Sports_logo_2017.svg/512px-BeIN_Sports_logo_2017.svg.png" group-title="FRANCE - SPORT",Canal Plus FHD
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=32769&extension=ts
 
 ############ FRANCE - CINEMA ############
 # (Ajoute ici uniquement des liens réels testés)
