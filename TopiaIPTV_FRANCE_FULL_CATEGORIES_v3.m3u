@@ -11,6 +11,10 @@ http://69.64.57.208/france5/mono.m3u8
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",BFM TV SD
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1280px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" group-title="FRANCE - GENERALE",TF1 Series Films
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1280px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" group-title="FRANCE - GENERALEA",6ter
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
 
 ############ FRANCE - SPORT ############
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Canal%2B_logo_2018.svg/512px-Canal%2B_logo_2018.svg.png" group-title="FRANCE - SPORT",beIN Sports 3 FHD
@@ -29,8 +33,6 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256628&extens
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extension=ts
 
 ############ FRANCE - CINEMA ############
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1280px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" group-title="FRANCE - CINEMA",TF1 Series Films
-https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
 
 ############ FRANCE - KIDS ############
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nick_Jr._logo_2023.png" group-title="FRANCE - KIDS",Nickelodeon Junior
