@@ -5,6 +5,8 @@
 ############################
 
 ############ FRANCE - GENERALE ############
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",TF1 HD
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",France 2 HD
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",France 3 HD
