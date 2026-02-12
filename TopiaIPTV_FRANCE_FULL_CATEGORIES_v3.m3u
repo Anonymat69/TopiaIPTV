@@ -17,6 +17,8 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",Canal 32 HD
 https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",C Star HD
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
 
 ############ FRANCE - SPORT ############
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Canal%2B_logo_2018.svg/512px-Canal%2B_logo_2018.svg.png" group-title="FRANCE - SPORT",beIN Sports 3 FHD
@@ -33,6 +35,10 @@ http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.ph
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256628&extension=tH
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BeIN_Sports_logo_2017.svg/512px-BeIN_Sports_logo_2017.svg.png" group-title="FRANCE - SPORT",Infosport+ FHD
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BeIN_Sports_logo_2017.svg/512px-BeIN_Sports_logo_2017.svg.png" group-title="FRANCE - SPORT",Equidia FHD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BeIN_Sports_logo_2017.svg/512px-BeIN_Sports_logo_2017.svg.png" group-title="FRANCE - SPORT",Equidia Racing Mag FHD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
 
 ############ FRANCE - CINEMA ############
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/AB1_2024.svg" group-title="FRANCE - CINEMA",AB1
