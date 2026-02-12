@@ -35,8 +35,8 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256628&extens
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extension=ts
 
 ############ FRANCE - CINEMA ############
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BeIN_Sports_logo_2017.svg/512px-BeIN_Sports_logo_2017.svg.png" group-title="FRANCE - CINEMA",AB1
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/AB1_2024.svg" group-title="FRANCE - CINEMA",AB1
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
 
 ############ FRANCE - KIDS ############
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nick_Jr._logo_2023.png" group-title="FRANCE - KIDS",Nickelodeon Junior
