@@ -21,14 +21,18 @@ https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",W9 HD
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",T18 HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/df/6ter_%282012-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20170723112600" group-title="FRANCE - GENERALE",6ter
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/AB1_2024.svg" group-title="FRANCE - GENERALE",AB1
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",France 24 HD
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",BFM TV SD
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/1280px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" group-title="FRANCE - GENERALE",TF1 Series Films
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/df/6ter_%282012-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20170723112600" group-title="FRANCE - GENERALE",6ter
-https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",Canal 32 HD
 https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo_2018.png" group-title="FRANCE - GENERALE",C Star HD
@@ -55,8 +59,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
 
 ############ FRANCE - CINEMA ############
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/AB1_2024.svg" group-title="FRANCE - CINEMA",AB1
-https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
 
 ############ FRANCE - KIDS ############
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nick_Jr._logo_2023.png" group-title="FRANCE - KIDS",Nickelodeon Junior
@@ -67,6 +69,5 @@ http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Disney_Junior_2020_logo.png" group-title="FRANCE - KIDS",ADN TV+
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-
 
 ############ FRANCE - NEWS ############
